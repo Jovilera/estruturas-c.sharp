@@ -1,0 +1,15 @@
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/estruturas-c.sharp.csproj.AssemblyReference.cache
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/estruturas-c.sharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/estruturas-c.sharp.AssemblyInfoInputs.cache
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/estruturas-c.sharp.AssemblyInfo.cs
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/estruturas-c.sharp.csproj.CoreCompileInputs.cache
+/workspace/estruturas-c.sharp/bin/Debug/net7.0/estruturas-c.sharp
+/workspace/estruturas-c.sharp/bin/Debug/net7.0/estruturas-c.sharp.deps.json
+/workspace/estruturas-c.sharp/bin/Debug/net7.0/estruturas-c.sharp.runtimeconfig.json
+/workspace/estruturas-c.sharp/bin/Debug/net7.0/estruturas-c.sharp.dll
+/workspace/estruturas-c.sharp/bin/Debug/net7.0/estruturas-c.sharp.pdb
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/estruturas-c.sharp.dll
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/refint/estruturas-c.sharp.dll
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/estruturas-c.sharp.pdb
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/estruturas-c.sharp.genruntimeconfig.cache
+/workspace/estruturas-c.sharp/obj/Debug/net7.0/ref/estruturas-c.sharp.dll
